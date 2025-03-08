@@ -1,6 +1,8 @@
 [build]
   command = "npm run build"
-  publish = "out"
+  publish = ".next"  # This is the correct directory for Next.js
+
+  # Optional: If you're using functions for server-side code
   functions = "netlify/functions"
 
   # If using a custom build command for exporting static site
