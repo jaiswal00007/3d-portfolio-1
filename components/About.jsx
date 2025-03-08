@@ -29,7 +29,7 @@ function About() {
       >
 <div>
   Hello! I&apos;m Anshu Jaiswal, an Android developer and problem solver.  
-  I&apos;m  currently pursuing a Bachelor Of Computer Application from Dr. B.C. Roy Engineering College under Makaut University.  
+  I&apos;m  currently pursuing Bachelor Of Computer Application from Dr. B.C. Roy Engineering College under Makaut University.  
   I&apos;m a passionate developer with experience in Html, Bootstrap, JavaScript (for web-based development), and frameworks like React, Node.js, and Three.js.  
   Additionally, I have expertise in Android development using Kotlin and have worked with Python and Java.  
   My knowledge extends to fundamental data structures and algorithms, making me well-versed in solving real-world problems.  
